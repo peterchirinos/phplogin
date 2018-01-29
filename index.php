@@ -35,10 +35,10 @@
         Logout
       </a>
     <?php else: ?>
-      <h1>Please Login or SignUp</h1>
+      <h1>Please Sign in or Create Account</h1>
 
-      <a href="login.php">Login</a> or
-      <a href="signup.php">SignUp</a>
+      <a href="login.php">Sign in</a> or
+      <a href="signup.php">Create account</a>
     <?php endif; ?>
   </body>
 </html>
