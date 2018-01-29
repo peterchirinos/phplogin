@@ -1,8 +1,8 @@
 <?php
 
-$server = 'localhost:3306';
-$username = 'root';
-$password = '';
+$server = 'servicedesktintegra-mysqldbserver.mysql.database.azure.com:3306';
+$username = 'mysqldbuser@servicedesktintegra-mysqldbserver';
+$password = 'T$oport02018';
 $database = 'php_login_database';
 
 try {
