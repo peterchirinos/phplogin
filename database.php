@@ -1,6 +1,6 @@
 <?php
 
-$server = 'servicedesktintegra-mysqldbserver.mysql.database.azure.com:3306';
+$server = 'servicedesktintegra-mysqldbserver.mysql.database.azure.com';
 $username = 'mysqldbuser@servicedesktintegra-mysqldbserver';
 $password = 'T$oport02018';
 $database = 'mysqldatabase38707';
